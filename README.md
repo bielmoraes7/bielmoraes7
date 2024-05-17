@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moraes
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me gabrielmoraesdev@outlook.com
+- 📫 gabrielmoraesdev@outlook.com
 - ⚡ Fun fact: Sometimes I get lost and I don't know what I'm doing
 
 <!---
